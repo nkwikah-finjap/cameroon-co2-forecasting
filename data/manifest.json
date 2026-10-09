@@ -1,0 +1,10 @@
+{
+  "created_utc": "2026-10-09",
+  "owner": "Miranda Nkwikah Finjap",
+  "project": "cameroon-co2-forecasting",
+  "data_files": {
+    "source_codebook.csv": "c49d92ff7af5a0f686990c52c4d44462b8fbae78796097c521f5e279c4b39bef",
+    "cameroon_emissions.csv": "008f772f008c4911c2445e5c21a76ec1ef93bcf30e3b81e0093dff93fc82ebf9"
+  },
+  "source_raw_sha256": "7f78e2b218ce4bb8c538bbec04fdc9a7982e8d40bff972e650df603899edd5f6"
+}

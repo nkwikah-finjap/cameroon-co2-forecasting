@@ -1,0 +1,49 @@
+{
+  "country": "Cameroon",
+  "unit": "Mt CO2 / year",
+  "first_year": 1960,
+  "last_observed_year": 2024,
+  "observed_years": 65,
+  "validation_years": [
+    2005,
+    2014
+  ],
+  "test_years": [
+    2015,
+    2024
+  ],
+  "selected_on_validation": "persistence",
+  "selected_test_scores": {
+    "model": "persistence",
+    "MAE_mtco2": 0.2420999999999996,
+    "RMSE_mtco2": 0.3834958930679697,
+    "n_years": 10
+  },
+  "all_test_scores": [
+    {
+      "model": "persistence",
+      "MAE_mtco2": 0.2420999999999996,
+      "RMSE_mtco2": 0.3834958930679697,
+      "n_years": 10
+    },
+    {
+      "model": "local_drift",
+      "MAE_mtco2": 0.32934999999999964,
+      "RMSE_mtco2": 0.4694251005219038,
+      "n_years": 10
+    },
+    {
+      "model": "ridge",
+      "MAE_mtco2": 0.5396694951102956,
+      "RMSE_mtco2": 0.7600736883792323,
+      "n_years": 10
+    },
+    {
+      "model": "random_forest",
+      "MAE_mtco2": 0.5512938573967716,
+      "RMSE_mtco2": 0.8380144959951749,
+      "n_years": 10
+    }
+  ],
+  "forecast_warning": "2025\u20132030 values are recursive estimates, not observations. One-step backtest does not validate six-year accuracy."
+}

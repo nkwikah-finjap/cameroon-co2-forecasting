@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please also cite the original data providers listed in data/PROVENANCE.md."
+title: "cameroon-co2-forecasting"
+type: software
+authors:
+  - family-names: Finjap
+    given-names: Miranda Nkwikah
+version: 1.0.0
+date-released: 2026-10-09
+license: MIT

@@ -1,0 +1,4 @@
+column,title,description,unit,source
+population,Population,"Population by country, available from 10,000 BCE to 2100, based on data and estimates from different sources.",people,Population based on various sources (2024) [https://ourworldindata.org/population-sources]
+co2,Annual CO₂ emissions,"Annual total emissions of carbon dioxide (CO₂), excluding land-use change, measured in million tonnes.",million tonnes (Mt),Global Carbon Budget (2025) [https://globalcarbonbudget.org/]
+co2_per_capita,CO₂ emissions per capita,"Carbon dioxide (CO₂) emissions from burning fossil fuels and industrial processes. This includes emissions from transport, electricity generation, and heating, but not land-use change.",tonnes per person (t/person),Global Carbon Budget (2025) [https://globalcarbonbudget.org/]; Population based on various sources (2024) [https://ourworldindata.org/population-sources]
